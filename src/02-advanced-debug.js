@@ -32,6 +32,5 @@ goodPractices()
 function numPointsScored() {
   
 }
-  
 
 
