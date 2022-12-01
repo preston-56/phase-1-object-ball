@@ -26,3 +26,12 @@ function goodPractices() {
 
 // then, call the function so it runs!
 goodPractices()
+
+// Build function `numPointsScored()`
+    
+function numPointsScored() {
+  
+}
+  
+
+
